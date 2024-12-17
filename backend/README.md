@@ -19,12 +19,6 @@ This is a web application designed for managing daily task using the MERN (Mongo
 **Server:** Node, Express, Mongoose, JWT
 
 
-
-## Login Credentials
-- email: admin@gmail.com 
-- password: 1234
-
-
 ## Installation
 
 To install this project on your local machine, follow these steps:
@@ -65,22 +59,7 @@ Start the server
   npm run dev
 ```
 
-## Authors
-
--  [@Tusar Imran](https://www.github.com/Tushar8640)
-
-
 ## Demo
 
 Live: https://advanced-rtk-todo.netlify.app/
-
-Front-end code: https://github.com/Tushar8640/rtk-todo-app
-
-Backend code: https://github.com/Tushar8640/todo-server
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at tusar.imran.dev@gmail.com
 
